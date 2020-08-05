@@ -1,0 +1,11 @@
+Results of Lottery Number Challenge:
+current date:2020-04-16
+Viata Fredericks
+The numbers you have chose:[7, 12, 15, 23, 32, 47]
+Lottery numbers are:[8, 14, 30, 31, 37, 38]
+
+Number of guesses correct:0
+You won: R0, try again next time
+
+
+
